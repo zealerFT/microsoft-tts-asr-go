@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+  <Relationship Type="http://schemas.microsoft.com/packaging/2010/07/manifest" Target="/Microsoft.CognitiveServices.Speech.nuspec" Id="RA9A2A3FF13F163A9" />
+  <Relationship Type="http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties" Target="/package/services/metadata/core-properties/e34c3cfa291a444aaeeb627dea66356c.psmdcp" Id="RFAFF782A8CCA7AD6" />
+</Relationships>

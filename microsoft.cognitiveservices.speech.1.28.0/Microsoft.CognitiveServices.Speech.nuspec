@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.CognitiveServices.Speech</id>
+    <version>1.28.0</version>
+    <title>Microsoft Cognitive Services Speech SDK</title>
+    <authors>Microsoft</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>https://aka.ms/csspeech/license</licenseUrl>
+    <projectUrl>https://aka.ms/csspeech</projectUrl>
+    <description>This NuGet package provides native and managed libraries for the Microsoft Cognitive Services Speech SDK.
+      Documentation is available at https://aka.ms/csspeech.</description>
+    <summary>Microsoft Cognitive Services Speech SDK</summary>
+    <releaseNotes>See https://aka.ms/csspeech/whatsnew.</releaseNotes>
+    <copyright>© Microsoft Corporation. All rights reserved.</copyright>
+    <tags>Microsoft Speech Cognitive Services native C++ C# .NET .NETStandard</tags>
+  </metadata>
+</package>
